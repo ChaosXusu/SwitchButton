@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwitchButton">
+    <!-- Sets a drawable as the content of this ImageView. -->
+    <attr name="slidBitmap" format="reference" />
+    <attr name="isOpen" format="boolean" />
+    </declare-styleable>
+</resources>
